@@ -32,8 +32,8 @@
     "expo-system-ui": "^5.0.7",
     "expo-web-browser": "^14.1.6",
     "lucide-react-native": "^0.511.0",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-hook-form": "^7.56.4",
     "react-native": "0.79.2",
     "react-native-calendars": "^1.1312.1",
@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.27.1",
-    "@types/react": "~19.1.5",
+    "@types/react": "~18.2.45",
     "typescript": "^5.8.3"
   }
 }
