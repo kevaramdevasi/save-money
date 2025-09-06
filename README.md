@@ -1,1 +1,1 @@
-# save-money
+# fintech-app-alpha
